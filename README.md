@@ -1,11 +1,30 @@
-# MNIST
+MC886 - Machine Learning Assignments
+================================
 
-This repository holds the source code for the classificator  for MNIST and Fashion MNIST dataset for project 2 of MC886 - Machine Learning.
+This repository contains the source code from assignments of discipline [MC886 - Machine Learning](https://www.ic.unicamp.br/~sandra/teaching/2018-2-mc886-mo444/).
 
-## Fashion MNIST
+Course given by professor [Sandra Avila](https://www.ic.unicamp.br/~sandra/) in the second semester of 2018.
 
-The notebook was developed in 2018 by me and @ThamirisCoelho.
+Course given by professor [Esther Colombini](https://www.ic.unicamp.br/~esther/) in the first semester of 2021.
 
-## MNIST
+## 2S2018 ~ Sandra Avila
 
-The notebook was coded in 2021 by me and @Ismal Melo.
+**Group:**
+  - Thamiris Coelhos
+  - Willian Hayashida
+
+**[Assignment 1]():** Linear Regression solutions to predict the price of diamonds.
+
+**[Assignment 2]():** Logistic Regression and Neural Network to classify images using the Fashion-MNIST dataset from keras.
+
+## 1s2021 ~ Esther Colombini
+
+**[Project 1]()** Non-Supervised Learning with k-means.
+
+**[Project 2]()** Linear Regression to predict the trajectory of a ball for a robotic cup. Logistic Regression to classify Hand Written Digits with MNIST from Scikitlearning
+
+**Group:**
+  - Ismael Melo
+  - Willian Hayashida
+
+[Institute of Computing](http://ic.unicamp.br/en) - [UNICAMP](https://www.unicamp.br/unicamp/english) (State University of Campinas)
