@@ -23,9 +23,9 @@ Course given by professor [Esther Colombini](https://www.ic.unicamp.br/~esther/)
   - Ismael Melo
   - Willian Hayashida
 
-**[Project 1](https://github.com/willianmh/mc886/blob/master/kmeans_project1.ipynb)** Non-Supervised Learning with k-means.
+**[Project 1]():** Non-Supervised Learning with k-means.
 
-**[Project 2](https://github.com/willianmh/mc886/blob/master/mnist.ipynb)** Linear Regression to predict the trajectory of a ball for a robotic cup. Logistic Regression to classify Hand Written Digits with MNIST from Scikitlearning
+**[Project 2](https://github.com/willianmh/mc886/blob/master/docs/P2.pdf):** [Notebook](https://github.com/willianmh/mc886/blob/master/kick_regression.ipynb) Linear Regression to predict the trajectory of a ball for a robotic cup. [Notebook](https://github.com/willianmh/mc886/blob/master/mnist.ipynb) Logistic Regression to classify Hand Written Digits with MNIST from Scikitlearning
 
 
 
