@@ -13,18 +13,20 @@ Course given by professor [Esther Colombini](https://www.ic.unicamp.br/~esther/)
   - Thamiris Coelhos
   - Willian Hayashida
 
-**[Assignment 1]():** Linear Regression solutions to predict the price of diamonds.
+**[Assignment 1](https://github.com/willianmh/mc886/blob/master/diamonds_pricing.ipynb):** Linear Regression solutions to predict the price of diamonds.
 
-**[Assignment 2]():** Logistic Regression and Neural Network to classify images using the Fashion-MNIST dataset from keras.
+**[Assignment 2](https://github.com/willianmh/mc886/blob/master/fashion_mnist.ipynb):** Logistic Regression and Neural Network to classify images using the Fashion-MNIST dataset from keras.
 
 ## 1s2021 ~ Esther Colombini
-
-**[Project 1]()** Non-Supervised Learning with k-means.
-
-**[Project 2]()** Linear Regression to predict the trajectory of a ball for a robotic cup. Logistic Regression to classify Hand Written Digits with MNIST from Scikitlearning
 
 **Group:**
   - Ismael Melo
   - Willian Hayashida
+
+**[Project 1](https://github.com/willianmh/mc886/blob/master/kmeans_project1.ipynb)** Non-Supervised Learning with k-means.
+
+**[Project 2](https://github.com/willianmh/mc886/blob/master/mnist.ipynb)** Linear Regression to predict the trajectory of a ball for a robotic cup. Logistic Regression to classify Hand Written Digits with MNIST from Scikitlearning
+
+
 
 [Institute of Computing](http://ic.unicamp.br/en) - [UNICAMP](https://www.unicamp.br/unicamp/english) (State University of Campinas)
